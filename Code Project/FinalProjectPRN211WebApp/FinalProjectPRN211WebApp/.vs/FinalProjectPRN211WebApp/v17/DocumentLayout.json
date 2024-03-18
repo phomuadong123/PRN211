@@ -1,0 +1,1236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\memberrepo\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\memberrepo\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\memberrepo\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\memberrepo\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\customhandler\\authorizationpolicybuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\customhandler\\authorizationpolicybuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\customhandler\\customuserrequireclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\customhandler\\customuserrequireclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\product\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\product\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\views\\cart\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\cart\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\models\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\models\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|c:\\users\\tuant\\source\\repos\\finalprojectprn211webapp\\storewebapp\\customhandler\\rolesauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\customhandler\\rolesauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\orderdetailrepo\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\orderdetailrepo\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\orderdetailrepo\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\orderdetailrepo\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\orderrepo\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\orderrepo\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\customhandler\\policiesauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\customhandler\\policiesauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\shared\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\shared\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\storewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\storewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\models\\fstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\fstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dao\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\signup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\login\\useraccessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\login\\useraccessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\member\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\member\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\cartrepo\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\cartrepo\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\cartrepo\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\cartrepo\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\productrepo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\productrepo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\storewebapp\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118375A2-A136-4E24-BB45-C487DBC60C03}|StoreWebApp\\StoreWebApp.csproj|solutionrelative:storewebapp\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\productrepo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\productrepo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\categoryrepo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\categoryrepo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\dataaccess\\repository\\categoryrepo\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227A3753-A06E-481E-95DE-DBD801AB19E5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\categoryrepo\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C17D7A0-315A-4A3A-9FC3-CAAB43C0637B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:21:00.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:17:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:17:14.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:17:02.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Cart\\Order.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Cart\\Order.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Cart\\Order.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Cart\\Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:09:20.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:09:05.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartProduct.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\CartProduct.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Models\\CartProduct.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\CartProduct.cs",
+              "RelativeToolTip": "StoreWebApp\\Models\\CartProduct.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:06:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowJkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:34:53.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAUwI0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:29:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RolesAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\RolesAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\CustomHandler\\RolesAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\RolesAuthorizationHandler.cs",
+              "RelativeToolTip": "StoreWebApp\\CustomHandler\\RolesAuthorizationHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:21:11.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\LogoutController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\LogoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:05:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:05:04.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:58:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:58:41.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Alert.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\Alert.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Shared\\Alert.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\Alert.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Shared\\Alert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:58:37.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:58:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\appsettings.json",
+              "RelativeToolTip": "StoreWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T17:37:02.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Signup\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Signup\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Signup\\Index.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Signup\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:32:17.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\SignupController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:30:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:26:56.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserAccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Login\\UserAccessDenied.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Login\\UserAccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Login\\UserAccessDenied.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Login\\UserAccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:26:47.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:26:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Index1.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Product\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Index1.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Product\\Index1.cshtml",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAswK0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:16:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:16:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAgwG0AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:16:09.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:16:04.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:15:55.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Profile.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Member\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Profile.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Member\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:14:42.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Member\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Edit.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Member\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:14:23.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Details.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Member\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Details.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Member\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:14:12.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Member\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Delete.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Member\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:12:26.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Member\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:11:31.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Member\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T17:10:36.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CartRepo\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CartRepo\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CartRepo\\ICartRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CartRepo\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:05:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CartRepo\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CartRepo\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CartRepo\\CartRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CartRepo\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:05:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:05:06.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:04:58.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\CartDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CartDAO.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\CartDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CartDAO.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:03:19.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:01:37.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:01:26.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwGMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:01:03.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\OrderDAO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:59:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:59:24.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:58:23.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\Account.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:54:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T15:53:01.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T15:52:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\AccountDAO.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAuwOQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:51:25.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PoliciesAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\PoliciesAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\CustomHandler\\PoliciesAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\PoliciesAuthorizationHandler.cs",
+              "RelativeToolTip": "StoreWebApp\\CustomHandler\\PoliciesAuthorizationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:48:34.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomUserRequireClaim.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\CustomUserRequireClaim.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\CustomHandler\\CustomUserRequireClaim.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\CustomUserRequireClaim.cs",
+              "RelativeToolTip": "StoreWebApp\\CustomHandler\\CustomUserRequireClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:48:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizationPolicyBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\AuthorizationPolicyBuilderExtension.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\CustomHandler\\AuthorizationPolicyBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\CustomHandler\\AuthorizationPolicyBuilderExtension.cs",
+              "RelativeToolTip": "StoreWebApp\\CustomHandler\\AuthorizationPolicyBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:48:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\SessionExtensions.cs",
+              "RelativeToolTip": "StoreWebApp\\SessionExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:21:57.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:15:51.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "StoreWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T15:15:40.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "StoreWebApp\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:12:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\Cart.cs",
+              "RelativeToolTip": "StoreWebApp\\Models\\Cart.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:54:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\CartItem.cs",
+              "RelativeToolTip": "StoreWebApp\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:54:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Models\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "StoreWebApp\\Models\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:54:03.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:21:56.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\Order.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:18:48.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StoreWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwJgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:52:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\ProductDAO.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAswBUBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:40:37.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:40:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:40:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Program.cs",
+              "RelativeToolTip": "StoreWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:37:20.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CategoryRepo\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CategoryRepo\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CategoryRepo\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CategoryRepo\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:35:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\Category.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:33:57.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:32:28.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\DataAccess\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:31:26.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FstoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\FstoreContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\FstoreContext.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\Models\\FstoreContext.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\FstoreContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wCQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T13:28:02.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StoreWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\StoreWebApp.csproj",
+              "RelativeDocumentMoniker": "StoreWebApp\\StoreWebApp.csproj",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\StoreWebApp.csproj",
+              "RelativeToolTip": "StoreWebApp\\StoreWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T13:07:51.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T13:12:18.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T13:09:03.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StoreWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\tuant\\source\\repos\\FinalProjectPRN211WebApp\\StoreWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StoreWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:55:05.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

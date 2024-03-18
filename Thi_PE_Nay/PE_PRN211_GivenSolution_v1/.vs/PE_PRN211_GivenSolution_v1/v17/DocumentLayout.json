@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1CE55D-D11D-429D-B345-B57F16117E03}|Q1\\Q1.csproj|d:\\fpt_university_workspace\\prn211\\thi_pe_nay\\pe_prn211_givensolution_v1\\q1\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1CE55D-D11D-429D-B345-B57F16117E03}|Q1\\Q1.csproj|solutionrelative:q1\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1CE55D-D11D-429D-B345-B57F16117E03}|Q1\\Q1.csproj|d:\\fpt_university_workspace\\prn211\\thi_pe_nay\\pe_prn211_givensolution_v1\\q1\\models\\pe_prn_fall2023b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1CE55D-D11D-429D-B345-B57F16117E03}|Q1\\Q1.csproj|solutionrelative:q1\\models\\pe_prn_fall2023b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1CE55D-D11D-429D-B345-B57F16117E03}|Q1\\Q1.csproj|d:\\fpt_university_workspace\\prn211\\thi_pe_nay\\pe_prn211_givensolution_v1\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1CE55D-D11D-429D-B345-B57F16117E03}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\Q1\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Schedule.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\Q1\\Models\\Schedule.cs",
+              "RelativeToolTip": "Q1\\Models\\Schedule.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:22:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PE_PRN_Fall2023B1Context.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\Q1\\Models\\PE_PRN_Fall2023B1Context.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\PE_PRN_Fall2023B1Context.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\Q1\\Models\\PE_PRN_Fall2023B1Context.cs",
+              "RelativeToolTip": "Q1\\Models\\PE_PRN_Fall2023B1Context.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T12:21:52.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY_WORKSPACE\\PRN211\\Thi_PE_Nay\\PE_PRN211_GivenSolution_v1\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T09:49:57.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
